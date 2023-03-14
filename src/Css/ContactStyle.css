@@ -1,0 +1,28 @@
+h1{
+    margin: 2.5rem auto;
+    padding: 2rem;
+    text-align: center;
+} 
+
+.team{
+    width: 100%;
+    margin: 2rem 0;
+    padding: 1.5rem auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imgteamDiv{
+    display: flex;
+    /* height: 100%;
+    width: 100%; */
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgteam{
+    height: 100%;
+    width: 80%;
+}
+
